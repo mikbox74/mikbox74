@@ -84,7 +84,6 @@
  - сеть мобильных приложений Мой Город moygorod.mobi ,
  - платформа кэшбэка DealCity dealcity.ru ,
  - ООО Интернет Форум урологов forumurology.ru ,
- - ООО Смарт-моторс smart-motors.ru ,
  - интернет-магазины makosatin.ru, cosmetics-bag.ru
     
 #### Что могу предложить:
