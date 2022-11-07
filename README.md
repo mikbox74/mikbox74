@@ -38,6 +38,7 @@
  - React JS, 
  - Mongo DB,
  - Typescript
+ - Flutter (Dart)
   
 #### Раньше работал с: 
 
