@@ -18,7 +18,8 @@
  - Vue JS, 
  - Vuetify, 
  - Bootstrap, 
- - Yii2, 
+ - Yii2,
+ - Symfony,
  - Redis, 
  - Highcharts JS
     
@@ -34,7 +35,6 @@
     
 #### Навыки на начальном уровне: 
 
- - Symfony, 
  - React JS, 
  - Mongo DB,
  - Typescript
@@ -86,7 +86,7 @@
  - сеть мобильных приложений Мой Город moygorod.mobi ,
  - платформа кэшбэка DealCity dealcity.ru ,
  - ООО Интернет Форум урологов forumurology.ru ,
- - интернет-магазины makosatin.ru, cosmetics-bag.ru
+ - акционная система компании Unilever promonado.ru
     
 #### Что могу предложить:
 
